@@ -8,7 +8,7 @@ Hi there! 👋
 
 💬 Ask me about #python, #azure, #linux, #business, #innovation, #investing and #retailindustry
 
-Still here? Awesome! 😍 I would love to connect with you 😉 Check my [LinkedIn](https://www.linkedin.com/in/vinaychalluru/) profile
+Still here? Awesome! 😍 I would love to connect with you 👉 Check my [LinkedIn](https://www.linkedin.com/in/vinaychalluru/) profile
 
 ### More about me
 
