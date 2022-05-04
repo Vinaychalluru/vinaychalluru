@@ -2,7 +2,7 @@
 
 Hi there! 👋
 
-**TL;DR** 🏃 🏃‍♀️ I am a Prudent Investor, Software engineer by Profession, and a Lifelong learner!
+**TL;DR** 🏃 🏃‍♀️ Software engineer by Profession. Lifelong learner!
 
 🔭 I’m currently working as Senior Technical Lead and Software Engineer in Chennai, India
 
