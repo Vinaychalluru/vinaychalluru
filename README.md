@@ -4,7 +4,7 @@ Hi there! 👋
 
 **TL;DR** 🏃 🏃‍♀️ Software engineer by Profession. Lifelong learner!
 
-🔭 I’m currently working as Senior Technical Lead and Software Engineer in Chennai, India
+🔭 I’m currently working as Python Lead developer in Chennai, India
 
 💬 Ask me about #python, #azure, #linux, #business, #innovation, #investing and #retailindustry
 
