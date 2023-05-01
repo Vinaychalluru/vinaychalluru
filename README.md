@@ -20,4 +20,4 @@ I have led and managed Agile teams, instructed trainees and guided them to achie
 
 I believe anybody can learn anything if they're passionate about it and want to make this world a better place, by helping and being part of those who do
 
-9.6 years of industry experience, with 5+ years in team leadership, team management, project planning and project delivery
+10.6 years of industry experience, with 5+ years in team leadership, team management, project planning and project delivery
