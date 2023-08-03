@@ -4,7 +4,7 @@ Hi there! 👋
 
 **TL;DR** 🏃 🏃‍♀️ Software engineer by Profession. Lifelong learner!
 
-🔭 I’m currently working as Python Lead developer in Chennai, India
+🔭 I’m currently working as a Solution Architect in India
 
 💬 Ask me about #python, #azure, #linux, #business, #innovation, #investing and #retailindustry
 
@@ -12,7 +12,7 @@ Still here? Awesome! 😍 I would love to connect with you 👉 Check my [Linked
 
 ### More about me
 
-Experienced Python developer skilled in Django, Django Rest Framework, Microsoft Azure, and a proficient Linux user
+Solution Architect and Experienced Python developer skilled in Django, Django Rest Framework, Microsoft Azure, and a proficient Linux user
 
 Familiar with Retail (Purchasing, Logistics and Warehouse management systems), Insurance, Banking and Hospitality industries, I am a curious person constantly learning about Businesses, Technological advancements, Innovative solutions, and Investing Behavior. Built client-oriented product solutions by observing problem patterns and making connections to them
 
