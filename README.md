@@ -6,18 +6,23 @@ Hi there! 👋
 
 🔭 I’m currently working as a Solution Architect in India
 
-💬 Ask me about #python, #azure, #linux, #business, #innovation, #investing and #retailindustry
+💬 Ask me about #python, #innovation, #cloudcomputing, #projectmanagement, and #productdevelopment
 
 Still here? Awesome! 😍 I would love to connect with you 👉 Check my [LinkedIn](https://www.linkedin.com/in/vinaychalluru/) profile
 
 ### More about me
+I am a passionate Solution Architect with over 10 years of experience in the tech industry, specializing in cloud-based platforms. 
 
-Solution Architect and Experienced Python developer skilled in Django, Django Rest Framework, Microsoft Azure, and a proficient Linux user
+I have a proven track record of success in delivering innovative solutions that have helped businesses achieve their goals. 
 
-Familiar with Retail (Purchasing, Logistics and Warehouse management systems), Insurance, Banking and Hospitality industries, I am a curious person constantly learning about Businesses, Technological advancements, Innovative solutions, and Investing Behavior. Built client-oriented product solutions by observing problem patterns and making connections to them
+I am skilled in Python, Django, REST APIs, SQL, Azure/GCP, Product Design, Project delivery, and Team management. I am also a technical strategist with a deep understanding of the tech landscape. I am committed to helping businesses solve their most complex problems using technology.
 
-I have led and managed Agile teams, instructed trainees and guided them to achieve better
+I am always looking for new challenges and opportunities to learn and grow. I believe that with passion and spirit, anyone can learn a new skill. 
 
-I believe anybody can learn anything if they're passionate about it and want to make this world a better place, by helping and being part of those who do
+### Personal Interests
 
-10.9 years of industry experience, with 5.5+ years in team leadership, team management, project planning and project delivery
+Following the latest trends in IT business processes, technological advancements, and innovative solutions in Retail (Purchasing, Logistics and Warehouse management systems), Insurance, Banking and Hospitality industries.
+
+Mentoring and training new engineers.
+
+Learning new technologies and skills.
