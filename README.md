@@ -11,7 +11,7 @@ Hi there! 👋
 Still here? Awesome! 😍 I would love to connect with you 👉 Check my [LinkedIn](https://www.linkedin.com/in/vinaychalluru/) profile
 
 ### More about me
-I am a passionate Solution Architect with over 12+ years of experience in the tech industry, specializing in cloud-based platforms. 
+I am a passionate Solution Architect with over 13+ years of experience in the tech industry, specializing in cloud-based platforms. 
 
 I have a proven track record of success in delivering innovative solutions that have helped businesses achieve their goals. 
 
